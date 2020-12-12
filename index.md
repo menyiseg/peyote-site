@@ -9,8 +9,8 @@ page_sections:
   navigation:
   - link: "/"
     link_text: Ubuild
-  - link: "#swap"
-    link_text: Swap
+  - link: "#mission"
+    link_text: The Mission
   - link: "#customize"
     link_text: Customize
   - link: "#responsive"
@@ -36,9 +36,10 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  slug: slug1
-  headline: "<strong>Integrating </strong>TradFi products into the DeFi ecosystem"
-  content: Empowering the DeFi ecosystem and its users with novel debt-based derivatives.
+  slug: mission
+  headline: "<strong>Integrating </strong>TradFi products into the DeFi ecosystem<br>"
+  content: Developing synthetic CDO derivatives empowers the DeFi ecosystem and its
+    users with previously unavailable offerings and liquidity.
   media:
     image: "/uploads/2020/12/12/thales.jpg"
     alt_text: Thales
