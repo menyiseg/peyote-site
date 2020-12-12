@@ -40,7 +40,7 @@ page_sections:
   headline: "<strong>Integrating </strong>TradFi products into the DeFi ecosystem"
   content: Empowering the DeFi ecosystem and its users with novel debt-based derivatives.
   media:
-    image: "/uploads/2020/12/12/package.svg"
+    image: "/uploads/2020/12/12/packages.png"
     alt_text: Packages
 - template: content-feature
   block: feature-1
