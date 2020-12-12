@@ -18,8 +18,8 @@ page_sections:
   - link: "#blocks"
     link_text: Blocks
   cta:
-    url: https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll
-    button_text: Import
+    url: https://form.jotform.com/203460693686161
+    button_text: Contact
 - template: hero-banner-w-image
   block: hero-2
   slug: features
