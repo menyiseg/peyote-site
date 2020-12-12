@@ -51,6 +51,6 @@ page_sections:
     alt_text: Partners
 - template: simple-footer
   block: footer-1
-  content: A miletus formation.
+  content: A miletus formation.<br><a href="/" title="">Back to top</a>
 
 ---
