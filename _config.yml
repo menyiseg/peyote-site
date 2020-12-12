@@ -8,9 +8,9 @@ baseurl: "/ubuild-jekyll"
 url: peyote.network
 defaults:
 - scope:
-    path: ''
+    path: page
   values:
-    layout: default
+    layout: color
 plugins:
 - jekyll-feed
 - jekyll-menus
