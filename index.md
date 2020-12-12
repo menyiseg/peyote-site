@@ -32,7 +32,7 @@ page_sections:
   image:
     image: "/uploads/2020/12/12/3dtextures.svg"
     alt_text: 3D texture
-  background_image: "/uploads/2018/06/21/hero-2-bg.png"
+  background_image: "/uploads/2018/06/21/forestry-full.svg"
 - template: content-feature
   block: feature-1
   media_alignment: Left
