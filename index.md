@@ -41,7 +41,7 @@ page_sections:
   content: Empowering the DeFi ecosystem and its users with novel debt-based derivatives.
   media:
     image: "/uploads/2020/12/12/thales.jpg"
-    alt_text: Packages
+    alt_text: Thales
 - template: content-feature
   block: feature-1
   media_alignment: Right
