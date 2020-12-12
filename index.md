@@ -24,15 +24,15 @@ page_sections:
   block: hero-2
   slug: features
   headline: "<strong>peyote</strong><br>on-chain sCDOs"
-  content: for the future of finance
+  content: for the future of finance.
   cta:
     enabled: false
     url: https://github.com/forestryio/ubuild-jekyll
     button_text: 'See on GitHub '
   image:
-    image: "/uploads/2020/12/12/newtopography.svg"
+    image: "/uploads/2020/12/12/3dtextures.svg"
     alt_text: 3D texture
-  background_image: ''
+  background_image: "/uploads/2020/12/12/landscapetopography.svg"
 - template: content-feature
   block: feature-1
   media_alignment: Left
