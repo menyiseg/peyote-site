@@ -49,6 +49,16 @@ page_sections:
   media:
     image: "/uploads/2020/12/12/partners.png"
     alt_text: Partners
+- template: content-feature
+  block: feature-1
+  media_alignment: Left
+  headline: The <strong>token</strong>
+  slug: token
+  media:
+    image: "/uploads/2020/12/12/peyotecoin.png"
+    alt_text: token
+  content: The peyote team will be issuing a governance token in the near future,
+    to support our development efforts.
 - template: signup-bar
   block: cta-bar
   email_recipient: f/xknpqqzy
