@@ -6,11 +6,7 @@ description: Peyote is working to create the next-generation of debt derivatives
   the blockchain.
 baseurl: "/ubuild-jekyll"
 url: peyote.network
-defaults:
-- scope:
-    path: page
-  values:
-    layout: color
+defaults: []
 plugins:
 - jekyll-feed
 - jekyll-menus
