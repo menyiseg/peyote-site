@@ -49,8 +49,13 @@ page_sections:
   media:
     image: "/uploads/2020/12/12/partners.png"
     alt_text: Partners
+- template: signup-bar
+  block: cta-bar
+  email_recipient: f/xknpqqzy
+  content: Sign up for project updates
 - template: simple-footer
   block: footer-1
-  content: A miletus formation.<br><a href="/" title="">Back to top</a>
+  content: A miletus formation. © miletus formations LLC<br><a href="/" title="">Back
+    to top</a>
 
 ---
